@@ -1,5 +1,5 @@
 {
-  openStreetMap: {
+  "openStreetMap": {
     "version": 8,
     "sources": {
       "osm": {
